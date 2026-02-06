@@ -6,7 +6,7 @@ import io
 # Page settings for a professional look
 st.set_page_config(page_title="Bank Data Extractor | BOC Solution Manager", layout="wide")
 
-st.title("📊 Automated Banking Data Extractor")
+st.title("📊 Performance Report Data Extractor")
 st.info("Upload your raw CSV and the Product Mapping file to process.")
 
 # --- SIDEBAR: Dynamic Filtering ---
